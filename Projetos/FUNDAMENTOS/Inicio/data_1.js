@@ -1,3 +1,4 @@
+// Trabalhando com Dados #1
 var qtdCanetas = 10;
 var price = 6.4;
 let tax = 1.5;

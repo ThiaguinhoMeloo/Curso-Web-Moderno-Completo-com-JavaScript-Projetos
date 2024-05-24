@@ -1,3 +1,4 @@
+// Bloco de Código
 {
     console.log("Bloco #01");    
 }

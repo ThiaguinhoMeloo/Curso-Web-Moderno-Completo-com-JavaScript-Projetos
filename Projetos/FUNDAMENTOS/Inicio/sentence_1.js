@@ -1,3 +1,4 @@
+// Sentença de Código #1
 console
     .log("Bom Dia!");
 console.log("Boa Tarde!");
