@@ -8,16 +8,17 @@ let temp = a;
 {
     a = 94;
     b = 7;
-    console.log("Primeira troca de valores:")
+    console.log("Troca de valores:")
     console.log("Valor de A: "+ a)
     console.log("Valor de B: " + b)
 }
 
 {
+    //troca de valores com variavel temp (temporaria)
     a = b;
     b = temp;
     console.log("\n")
-    console.log("Primeira troca de valores com variavel temp (temporaria):")
+    console.log("Troca de valores:")
     console.log("Valor de A: "+ a)
     console.log("Valor de B: " + b)
 }
